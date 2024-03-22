@@ -1,6 +1,4 @@
-### Olá, me chamo 
-
-# Fabine :relaxed:
+### Olá, me chamo Fabine :relaxed:
 
 ### Bem vindo ao meu perfil GitHub 👋
 <!--
